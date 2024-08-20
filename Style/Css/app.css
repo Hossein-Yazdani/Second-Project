@@ -1,0 +1,20 @@
+:root {
+  --orang: #e76f51;
+}
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+*,
+::before,
+::after {
+  box-sizing: inherit;
+}
+body {
+  font-family: Roboto-Regular;
+  font-size: 1.8rem;
+  line-height: 1.6;
+}
+.container {
+  height: 25rem;
+}
